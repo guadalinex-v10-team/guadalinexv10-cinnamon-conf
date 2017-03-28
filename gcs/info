@@ -1,9 +1,9 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de Guadalinex v10
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: guadalinexv9-cinnamon-conf
+name: guadalinexv10-cinnamon-conf
 
 # Autor 
 author: David Amian <damian@emergya.com>
@@ -14,12 +14,12 @@ priority: optional
 # Section
 section: metapackages
 
-shortdesc: "Guadalinex v9 cinnamon configuration"
+shortdesc: "Guadalinex v10 cinnamon configuration"
 
-longdesc: "This package contains every Cinnamon files that it is modified for Gv9."
+longdesc: "This package contains every Cinnamon files that it is modified for Guadalinex v10."
 
 # Versión del paquete
-version: 9.0
+version: 10.0
 
 # Cambios en esta versión
 changes:
